@@ -1,0 +1,11 @@
+ outputs:
+    dev:
+      type: postgres
+      threads: 8
+      host: [hostname]
+      user: [username]
+      pass: [password]
+      port: 5439
+      dbname: [database name]
+      schema: dbt_[username] # e.g. dbt_alice
+  target: dev
