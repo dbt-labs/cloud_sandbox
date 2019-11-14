@@ -1,0 +1,50 @@
+id,name,category,theme,price,cost
+101,Cowboy Hat,Hat,Cowboy,39.99,12
+102,Cowboy Boots,Footwear,Cowboy,27.99,5.6
+103,Handkerchief,Accessory,Cowboy,4.99,0.75
+104,Spurs,Accessory,Cowboy,24.99,2.5
+105,Chaps,Pants,Cowboy,16.99,7.65
+106,Pirate Hat,Hat,Pirate,17.99,2.7
+107,Pirate Boots,Footwear,Pirate,11.99,1.2
+108,Hook,Accessory,Pirate,4.99,2.99
+109,Eyepatch,Accessory,Pirate,4.99,2.5
+110,Ball Gown,Dress,Princess,35.99,9
+111,Glass Slippers,Footwear,Princess,12.99,3.9
+112,Necklace,Accessory,Princess,5.99,2.7
+113,Sheet w/ Holes,Dress,Ghost,3.59,0.9
+114,Pointy Hat,Hat,Wizard,4.99,1
+115,Robes,Dress,Wizard,35.99,19.79
+116,Wand,Accessory,Wizard,12.99,1.95
+117,Cape,Accessory,Superhero,12.99,7.14
+118,Tights,Pants,Superhero,8.99,5.39
+119,Superhero Suit,Dress,Superhero,32.99,18.14
+120,Tattered Suit,Dress,Frankenstein,29.99,10.5
+121,Bolt,Accessory,Frankenstein,2.99,1.05
+122,Lab Coat,Dress,Scientist,12.99,3.25
+123,Thick Rubber Gloves,Accessory,Scientist,3.99,1.6
+124,Crazy Hair Wig,Hat,Scientist,5.99,0.6
+125,Face Paint,Accessory,General,6.99,0.7
+126,Glasses,Accessory,General,2.99,0.45
+127,Brown Wig,Hat,General,6.99,2.1
+128,Blonde Wig,Hat,General,6.99,2.45
+129,Red Wig,Hat ,General,6.99,3.15
+130,Stethoscope,Accessory,Doctor,11.99,4.8
+131,Scrubs,Dress,Doctor,15.49,2.32
+132,Bone Suite,Dress,Skeleton,15.99,3.2
+133,Skull Mask,Hat,Skeleton,4.99,0.75
+134,Baseball Hat,Hat,Baseball Player,4.99,2.99
+135,Bat,Accessory,Baseball Player,13.99,2.1
+136,Cleats,Footwear,Baseball Player,12.99,7.79
+137,Baseball Uniform,Dress,Baseball Player,21.99,9.9
+138,Balloon,Decoration,General,1.99,0.8
+139,Streamers,Decoration,General,1.99,0.2
+140,Cups,Food/Utensils,General,3.99,2.19
+141,Forks,Food/Utensils,General,2.99,1.64
+142,Knives,Food/Utensils,General,2.99,0.3
+143,Napkins,Food/Utensils,General,2.99,1.5
+144,Plates,Food/Utensils,General,1.99,0.5
+145,Banner,Decoration,General,7.99,4.39
+146,Tablecloth,Decoration,General,5.99,3.29
+147,Pinata,Games,General,12.99,5.2
+148,Pin-the-tail,Games,General,8.99,3.15
+149,Ping Pong Balls,Games,General,2.99,0.6

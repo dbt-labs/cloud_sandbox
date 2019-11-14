@@ -17,6 +17,3 @@ clean-targets:
 
 models:
   cloud_sandbox:
-
-      example:
-          materialized: view
