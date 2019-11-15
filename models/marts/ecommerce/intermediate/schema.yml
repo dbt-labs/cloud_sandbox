@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: aggregated_items
+    description: >
+      This model aggregates order_item values to the order_id level to easily
+      join to orders.
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique
