@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: fct_orders
+    description: >
+      This model joins item values to orders.
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique
