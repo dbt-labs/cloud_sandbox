@@ -1,4 +1,4 @@
-id,first_name,last_name,shipping_address_1,shipping_address_2,city,state,zip
+ID,FIRST_NAME,LAST_NAME,SHIPPING_ADDRESS_1,SHIPPING_ADDRESS_2,CITY,STATE,ZIP
 10015,Kimberly,Day,192 Birch Cir.,,Townville,FL,79050
 10016,Kathryn,Mills,89 Meadow Hwy,,Kansas City,FL,34961
 10017,Isabel,Simmons,233 Flower Hwy,,Nilbog,AR,27839

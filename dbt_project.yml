@@ -14,6 +14,13 @@ clean-targets:
     - "target"
     - "dbt_modules"
 
+#remove when switching to postgres
+
+quoting:
+  database: false
+  identifier: false
+  schema: false
+  
 
 models:
   cloud_sandbox:
