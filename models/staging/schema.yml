@@ -9,3 +9,12 @@ models:
         tests:
           - not_null
           - unique
+          
+  - name: stg_order_items
+    description: >
+      This model renames columns from the `order_items` seeded file.
+    columns:
+      - name: order_item_id
+        tests:
+          - not_null
+          - unique
