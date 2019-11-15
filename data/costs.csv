@@ -1,4 +1,4 @@
-id,name,category,theme,price,cost
+ID,NAME,CATEGORY,THEME,PRICE,COST
 101,Cowboy Hat,Hat,Cowboy,39.99,12
 102,Cowboy Boots,Footwear,Cowboy,27.99,5.6
 103,Handkerchief,Accessory,Cowboy,4.99,0.75

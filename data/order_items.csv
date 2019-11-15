@@ -1,4 +1,4 @@
-id,order_id,item_id,item_name,qty,price,cost
+ID,ORDER_ID,ITEM_ID,ITEM_NAME,QTY,PRICE,COST
 1,833,149,Ping Pong Balls,4,11.96,2.4
 2,968,109,Eyepatch,3,14.97,7.5
 3,1122,138,Balloon,3,5.97,2.4

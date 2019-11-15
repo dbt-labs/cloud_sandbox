@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: stg_orders
+    description: >
+      This model renames columns from the `orders` seeded file.
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique
