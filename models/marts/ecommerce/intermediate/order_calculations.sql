@@ -59,7 +59,7 @@ date_diffs as (
         *,
 
         {{ dbt_utils.datediff(
-                'first_order_date',
+                'customer_first_order_date',
                 'created_at',
                 'month') }}
         as months_since_first_order
