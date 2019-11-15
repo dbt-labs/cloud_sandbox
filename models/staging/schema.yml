@@ -18,3 +18,12 @@ models:
         tests:
           - not_null
           - unique
+          
+  - name: stg_customers
+    description: >
+      This model renames columns from the `customers` seeded file.
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
