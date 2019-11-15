@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: fct_orders
+    description: >
+      This model joins item values to orders.
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique
+          
+  - name: dim_customers
+    description: >
+      This model joins order values to customers.
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
