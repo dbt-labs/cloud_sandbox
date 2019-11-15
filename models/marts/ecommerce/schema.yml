@@ -9,3 +9,12 @@ models:
         tests:
           - not_null
           - unique
+          
+  - name: dim_customers
+    description: >
+      This model joins order values to customers.
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique

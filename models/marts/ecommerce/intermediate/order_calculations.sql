@@ -40,7 +40,7 @@ calculations as (
 
         *,
         
-        min(cast(created_at as timestamp)) {{window}} as first_order_date,
+        min(cast(created_at as timestamp)) {{window}} as customer_first_order_date,
         
         lag(created_at) 
             over (
