@@ -10,3 +10,26 @@ models:
         tests:
           - not_null
           - unique
+          
+  - name: order_calculations
+    description: >
+      This model creates important fields on the orders table.
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique
+      - name: customer_order_number
+        description: >
+          This is an incrementing field over the `customer_id` to understand
+          if it is the customer's first, second, etc order.
+      - name: new_vs_repeat
+        description: >
+          When `customer_order_number` = 1, this field returns "new" otherwise
+          it returns "repeat"
+      - name: months_since_first_order
+        description: >
+          This field returns the number of month's since the customer's first
+          purchase. This field is helpful for looking at orders and revenue in
+          a cohorted way.
+          
